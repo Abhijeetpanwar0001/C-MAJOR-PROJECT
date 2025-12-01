@@ -1,2 +1,4 @@
 # C-MAJOR-PROJECT
 MOVIE TICKET BOOKING MANAGEMENT SYSTEM
+
+This project is a simple Movie Ticket Booking Management System developed in C programming language. It allows users to view available movies, book tickets, apply discounts, and generate a detailed receipt. The program is menu-driven and uses structures, functions, and file handling to simulate a real-world ticket booking process.
